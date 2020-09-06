@@ -1,6 +1,6 @@
 /**
-*	@author
-*	@date
+*	@author Katie Lucas
+*	@date 9/6/2020
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
